@@ -1,0 +1,6 @@
+{
+  "rules": [
+    {"from": "A1.DDS", "to": "A2.DDS"}
+  ],
+  "target_dir": "./files"
+}
