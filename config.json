@@ -1,6 +1,9 @@
 {
+  "copy_before": [
+    {"from": "A", "to": ["B", "C"]}
+  ],
   "rules": [
-    {"from": "A1.DDS", "to": "A2.DDS"}
+    {"from": "A", "to": "B"}
   ],
   "target_dir": "./files"
 }
